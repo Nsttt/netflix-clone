@@ -9,6 +9,7 @@ import * as ROUTES from '../constants/routes';
 export default function Signin() {
   const history = useHistory();
   const { firebase } = useContext(FirebaseContext);
+
   const [emailAddress, setEmailAddress] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
@@ -55,7 +56,7 @@ export default function Signin() {
             </Form.Submit>
           </Form.Base>
           <Form.Text>
-            New to Netflix? <Form.Link to="/signup">Sign up now.</Form.Link>
+            New to Netflix? <Form.Link to="/singup">Sign up now.</Form.Link>
           </Form.Text>
           <Form.TextSmall>
             This page in protected by Google reCAPTCHA to ensure you're not a bot. Learn more.
