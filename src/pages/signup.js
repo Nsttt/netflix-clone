@@ -20,13 +20,13 @@ export default function Signup() {
   const handleSignup = (event) => {
     event.preventDefault();
 
-    firebase
+    return firebase
       .auth()
       .createUserWithEmailAndPassword(emailAddress, password)
       .then((result) =>
         result.user
           .updateProfile({
-            diplayName: firstName,
+            displayName: firstName,
             photoURL: Math.floor(Math.random() * 5) + 1,
           })
           .then(() => {
@@ -66,17 +66,17 @@ export default function Signup() {
               value={password}
               onChange={({ target }) => setPassword(target.value)}
             />
-            <Form.Submit disabled={isInvalid} type="submit">
+            <Form.Submit disabled={isInvalid} type="submit" data-testid="sign-up">
               Sign Up
             </Form.Submit>
-
-            <Form.Text>
-              Already a user? <Form.Link to="/signin">Sign in now.</Form.Link>
-            </Form.Text>
-            <Form.TextSmall>
-              This page in protected by Google reCAPTCHA to ensure you're not a bot. Learn more.
-            </Form.TextSmall>
           </Form.Base>
+
+          <Form.Text>
+            Already a user? <Form.Link to="/signin">Sign in now.</Form.Link>
+          </Form.Text>
+          <Form.TextSmall>
+            This page in protected by Google reCAPTCHA to ensure you're not a bot. Learn more.
+          </Form.TextSmall>
         </Form>
       </HeaderContainer>
       <FooterContainer />
