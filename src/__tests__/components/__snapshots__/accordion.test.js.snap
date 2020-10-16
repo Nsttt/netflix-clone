@@ -5,81 +5,80 @@ exports[`<Accordion /> opens and closes the <Accordion /> component 1`] = `
   class="accordion__Container-sc-1bgtitq-0 TLuGR"
 >
   <div
-    class="accordion__Inner-sc-1bgtitq-1 hjNZue"
+    class="accordion__Inner-sc-1bgtitq-2 cnUMrZ"
   >
     <h1
-      class="accordion__Title-sc-1bgtitq-2 jYXmFL"
+      class="accordion__Title-sc-1bgtitq-3 jusrte"
     >
       Frequently Asked Questions
     </h1>
     <div
-      class="accordion__Item-sc-1bgtitq-3 epyHyl"
+      class="accordion__Frame-sc-1bgtitq-1 eItiNY"
     >
       <div
-        class="accordion__Header-sc-1bgtitq-4 RnmnG"
+        class="accordion__Item-sc-1bgtitq-4 gJbUdE"
       >
-        What is Netflix?
-         
-        <img
-          alt="Open"
-          src="/images/icons/add.png"
-        />
+        <div
+          class="accordion__Header-sc-1bgtitq-5 klzIGL"
+        >
+          What is Netflix?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
       </div>
-    </div>
-    <div
-      class="accordion__Item-sc-1bgtitq-3 epyHyl"
-    >
       <div
-        class="accordion__Header-sc-1bgtitq-4 RnmnG"
+        class="accordion__Item-sc-1bgtitq-4 gJbUdE"
       >
-        How much does Netflix cost?
-         
-        <img
-          alt="Open"
-          src="/images/icons/add.png"
-        />
+        <div
+          class="accordion__Header-sc-1bgtitq-5 klzIGL"
+        >
+          How much does Netflix cost?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
       </div>
-    </div>
-    <div
-      class="accordion__Item-sc-1bgtitq-3 epyHyl"
-    >
       <div
-        class="accordion__Header-sc-1bgtitq-4 RnmnG"
+        class="accordion__Item-sc-1bgtitq-4 gJbUdE"
       >
-        Where can I watch?
-         
-        <img
-          alt="Open"
-          src="/images/icons/add.png"
-        />
+        <div
+          class="accordion__Header-sc-1bgtitq-5 klzIGL"
+        >
+          Where can I watch?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
       </div>
-    </div>
-    <div
-      class="accordion__Item-sc-1bgtitq-3 epyHyl"
-    >
       <div
-        class="accordion__Header-sc-1bgtitq-4 RnmnG"
+        class="accordion__Item-sc-1bgtitq-4 gJbUdE"
       >
-        How do I cancel?
-         
-        <img
-          alt="Open"
-          src="/images/icons/add.png"
-        />
+        <div
+          class="accordion__Header-sc-1bgtitq-5 klzIGL"
+        >
+          How do I cancel?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
       </div>
-    </div>
-    <div
-      class="accordion__Item-sc-1bgtitq-3 epyHyl"
-    >
       <div
-        class="accordion__Header-sc-1bgtitq-4 RnmnG"
+        class="accordion__Item-sc-1bgtitq-4 gJbUdE"
       >
-        What can I watch on Netflix?
-         
-        <img
-          alt="Open"
-          src="/images/icons/add.png"
-        />
+        <div
+          class="accordion__Header-sc-1bgtitq-5 klzIGL"
+        >
+          What can I watch on Netflix?
+          <img
+            alt="Open"
+            src="/images/icons/add.png"
+          />
+        </div>
       </div>
     </div>
   </div>
