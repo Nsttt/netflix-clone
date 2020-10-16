@@ -1,68 +1,92 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Netflix-clone
 
-## Available Scripts
+> A Netflix clone built using React (Custom Hooks, Context), Firebase & Styled Components.
 
-In the project directory, you can run:
+[![Contributions](https://img.shields.io/badge/contributions-welcome-blue?style=flat-square)](https://github.com/nsttt/netflix-clone/compare/) [![Issues](https://img.shields.io/github/issues/nsttt/netflix-clone?style=flat-square)](https://github.com/Nsttt/netflix-clone/issues) [![License](https://img.shields.io/github/license/nsttt/netflix-clone?style=flat-square)](https://github.com/Nsttt/netflix-clone/blob/master/LICENSE.txt)
 
-### `yarn start`
+[![Screenshot](preview.png?raw=true)](http://n-clone.nstlopez.com/)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Table of Contents
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- [Netflix-clone](#netflix-clone)
+  - [Table of Contents](#table-of-contents)
+  - [Usage](#usage)
+  - [Installation](#installation)
+  - [Contribute](#contribute)
+    - [Step 1](#step-1)
+    - [Step 2](#step-2)
+    - [Step 3](#step-3)
+  - [Support](#support)
+  - [License](#license)
 
-### `yarn test`
+---
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
 
-### `yarn build`
+You can access to it on http://n-clone.nstlopez.com/
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To install run the following commands in the root folder. (You can use npm if you please)
 
-### `yarn eject`
+```shell
+yarn install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+To serve a development build use the following command. (You can use npm if you please)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```shell
+yarn start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+To build the app for production, use the following command.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```shell
+yarn build
+```
 
-## Learn More
+It will create a `build` folder with the static files.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contribute
 
-### Code Splitting
+You can contribute to the development or improvement of this app and it will be much appreciated if you do !
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+To do so:
 
-### Analyzing the Bundle Size
+### Step 1
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- Fork this repo!
 
-### Making a Progressive Web App
+OR
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+- Clone this repo to your local machine using `https://github.com/nsttt/netflix-clone.git`
 
-### Advanced Configuration
+### Step 2
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+- **HACK AWAY!** 🔨🔨🔨
 
-### Deployment
+### Step 3
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+- Create a new pull request using <a href="https://github.com/nsttt/netflix-clone/compare/" target="_blank">`https://github.com/nsttt/netflix-clone/compare/`</a>.
 
-### `yarn build` fails to minify
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Support
+
+Reach out to me at one of the following places!
+
+- Website at <a href="http://nstlopez.com" target="_blank">`nstlopez.com`</a>
+- Twitter at <a href="http://twitter.com/nstlopez" target="_blank">`@nstlopez`</a>
+
+---
+
+## License
+
+[![License](https://img.shields.io/github/license/nsttt/netflix-clone?style=flat-square)](https://github.com/Nsttt/netflix-clone/blob/master/LICENSE.txt)
+
+- **[MIT license](http://opensource.org/licenses/mit)**
+- Copyright 2020 © <a href="http://nstlopez.com" target="_blank">Néstor</a>.
