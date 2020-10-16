@@ -2,7 +2,7 @@
 
 > A Netflix clone built using React (Custom Hooks, Context), Firebase & Styled Components.
 
-[![Contributions](https://img.shields.io/badge/contributions-welcome-blue?style=flat-square)](https://github.com/nsttt/netflix-clone/compare/) [![Issues](https://img.shields.io/github/issues/nsttt/netflix-clone?style=flat-square)](https://github.com/Nsttt/netflix-clone/issues) [![License](https://img.shields.io/github/license/nsttt/netflix-clone?style=flat-square)](https://github.com/Nsttt/netflix-clone/blob/master/LICENSE.txt)
+[![Contributions](https://img.shields.io/badge/contributions-welcome-blue?style=flat-square)](https://github.com/nsttt/Netflix-clone/compare/) [![Issues](https://img.shields.io/github/issues/nsttt/Netflix-clone?style=flat-square)](https://github.com/Nsttt/Netflix-clone/issues) [![License](https://img.shields.io/github/license/nsttt/Netflix-clone?style=flat-square)](https://github.com/Nsttt/Netflix-clone/blob/master/LICENSE.txt)
 
 [![Screenshot](preview.png?raw=true)](http://n-clone.nstlopez.com/)
 
@@ -63,7 +63,7 @@ To do so:
 
 OR
 
-- Clone this repo to your local machine using `https://github.com/nsttt/netflix-clone.git`
+- Clone this repo to your local machine using `https://github.com/nsttt/Netflix-clone.git`
 
 ### Step 2
 
@@ -71,7 +71,7 @@ OR
 
 ### Step 3
 
-- Create a new pull request using <a href="https://github.com/nsttt/netflix-clone/compare/" target="_blank">`https://github.com/nsttt/netflix-clone/compare/`</a>.
+- Create a new pull request using <a href="https://github.com/nsttt/Netflix-clone/compare/" target="_blank">`https://github.com/nsttt/Netflix-clone/compare/`</a>.
 
 ---
 
@@ -86,7 +86,7 @@ Reach out to me at one of the following places!
 
 ## License
 
-[![License](https://img.shields.io/github/license/nsttt/netflix-clone?style=flat-square)](https://github.com/Nsttt/netflix-clone/blob/master/LICENSE.txt)
+[![License](https://img.shields.io/github/license/nsttt/Netflix-clone?style=flat-square)](https://github.com/Nsttt/Netflix-clone/blob/master/LICENSE.txt)
 
 - **[MIT license](http://opensource.org/licenses/mit)**
 - Copyright 2020 © <a href="http://nstlopez.com" target="_blank">Néstor</a>.
