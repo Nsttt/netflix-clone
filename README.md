@@ -35,21 +35,6 @@ Install all required dependencies with this command:
 yarn install
 ```
 
-After all dependencies are installed you will require to fill a few enviromental variables to make the page work perfectly with your own Firebase data.
-
-Create a `.env` file inside the `/` folder having the following structure.
-
-```env
-  REACT_APP_apiKey=
-  REACT_APP_authDomain=
-  REACT_APP_projectId=
-  REACT_APP_storageBucket=
-  REACT_APP_messagingSenderId=
-  REACT_APP_appId=
-```
-
-After you have done this, you can launch the app with `yarn start` or with any of the scripts inside of `package.json`.
-
 ## License
 
 See the [LICENSE](./LICENSE) file for licensing information.
