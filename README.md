@@ -19,7 +19,7 @@
 > **Mail:** test@mail.com
 > **Password:** test1234
 
-You can read the entire development process of this app on my [portfolio article](https://nstlopez.com/projects/netflix-clone).
+You can read the entire development process of this app on my [portfolio article](https://nstlopez.com/project/netflix-clone).
 
 ## Getting Started
 
