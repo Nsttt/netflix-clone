@@ -16,7 +16,7 @@ export default function Home() {
             <OptForm.Input placeholder="Email Address" />
             <OptForm.Button>Try it now</OptForm.Button>
             <OptForm.Break />
-            <OptForm.Text>Ready to watch ? Enter your email to create or restart your membership</OptForm.Text>
+            <OptForm.Text>Disclaimer. This is not an oficial Netflix app. It's just a clone.</OptForm.Text>
           </OptForm>
         </Feature>
       </HeaderContainer>
